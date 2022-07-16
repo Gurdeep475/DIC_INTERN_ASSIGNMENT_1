@@ -40,7 +40,8 @@ nav ul li a{
 }
 
 img{
-    width: 4%;
+    width: 33px;
+    height: 79px;
     margin: 10px;
     border-radius: 35px;
 }
@@ -80,6 +81,8 @@ nav ul li:hover{
     margin: 4px;
     border: none;
     border-radius: 10px;
+    color: white;
+    background-color: rgb(0, 0, 0);
 }
 .features{
     margin-top: 4%;
