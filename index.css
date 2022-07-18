@@ -177,6 +177,9 @@ font-weight: 500;
 margin-bottom:5px;
 }
 
+.gender{
+    margin-right: 10px;
+}
 .user-details .input-box input{
     height:45px;
     width:100%;
